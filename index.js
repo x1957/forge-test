@@ -1,4 +1,4 @@
-// just for test
+// just for CI test
 let cnt = 0;
 setInterval(() => {
     console.log("cnt:=", cnt);
